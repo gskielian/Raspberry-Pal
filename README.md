@@ -25,8 +25,8 @@ enter a number afterwards for the number of seconds per window:
 #### Raspberry Pi
 
 ```bash
-chmod +x ./raspi_say.sh
-./raspi_say.sh 10
+chmod +x ./raspi_listen.sh
+./raspi_listen.sh 10
 ```
 
 
@@ -34,8 +34,8 @@ chmod +x ./raspi_say.sh
 #### Ubuntu Linux 
 
 ```bash
-chmod +x say.sh
-./say.sh 10
+chmod +x listen.sh
+./listen.sh 10
 ```
 
 
