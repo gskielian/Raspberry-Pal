@@ -19,12 +19,25 @@ sudo bash install.sh
 Usage:
 ------
 
-you will be given a "x" second window:
+enter a number afterwards for the number of seconds per window:
+
+
+#### Raspberry Pi
+
+```bash
+chmod +x ./raspi_say.sh
+./raspi_say.sh 10
+```
+
+
+
+#### Ubuntu Linux 
 
 ```bash
 chmod +x say.sh
 ./say.sh 10
 ```
+
 
 Then the simple script will parse the returned json for the most probable match from Google's Speech-To-Text Apis.
 
