@@ -1,2 +1,0 @@
-{"result":[]}
-{"result":[{"alternative":[{"transcript":"how's the weather today","confidence":0.73642075},{"transcript":"how is the weather today"},{"transcript":"how was the weather today"}],"final":true}],"result_index":0}
