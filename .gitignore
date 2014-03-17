@@ -1,3 +1,6 @@
 test.txt
 file.flac
 file.wav
+*.wav
+*.flac
+
