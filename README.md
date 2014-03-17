@@ -26,7 +26,7 @@ chmod +x say.sh
 ./say.sh 10
 ```
 
-Then the simple script will parse the returned json for the most probably match from Google's Apis/
+Then the simple script will parse the returned json for the most probable match from Google's Speech-To-Text Apis.
 
 
 Credits:
