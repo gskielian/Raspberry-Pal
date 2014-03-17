@@ -1,0 +1,2 @@
+{"result":[]}
+{"result":[{"alternative":[{"transcript":"what's up","confidence":0.76063383},{"transcript":"whats up"},{"transcript":"whatsup"},{"transcript":"What's Up"},{"transcript":"what sup"}],"final":true}],"result_index":0}
