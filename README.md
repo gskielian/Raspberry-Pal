@@ -1,7 +1,7 @@
-Turing-Test
+Description
 ===========
 
-Using google tts and stt to achieve a platform for Robotic interaction.
+Using google tts and stt to achieve a platform for Raspberry Pi to interact via voice with ordinary people.
 
 
 Installation:
