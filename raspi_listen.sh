@@ -33,5 +33,5 @@ curl -X POST \
 --header 'Content-Type: audio/x-flac; rate=16000;' \
 'https://www.google.com/speech-api/v2/recognize?output=json&lang=en-us&key=AIzaSyCnl6MRydhw_5fLXIdASxkLJzcJh5iX0M4' > test.txt
 
-response=`cat test.txt | grep transcript | jq '.result[0].alternative[0].transcript'`
-espeak "you said $response"
+#response=`cat test.txt | grep transcript | jq '.result[0].alternative[0].transcript'`
+#espeak "you said $response" & 
