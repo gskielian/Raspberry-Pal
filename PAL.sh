@@ -21,6 +21,7 @@ while [ 1 ] ; do
       mplayer ~/python_games/beep1.ogg
     fi
 
+##The following are examples of how to have the PAL setup play music
     regex='.*(c|C)ool.*'
     if [[ $response =~ $regex ]] ; then
       ./say.sh "shiki no uta"
