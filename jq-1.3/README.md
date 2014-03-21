@@ -1,6 +1,11 @@
 jq
 ==
 
+Using this create JSON processor for PAL, original README (with link to source and documentation) is as follows:
+
+README
+------
+
 jq is a command-line JSON processor.
 
 If you want to learn to use jq, read the documentation at

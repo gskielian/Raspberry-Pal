@@ -1,7 +1,7 @@
 Description
 ===========
 
-Using google tts and stt to achieve a platform for Raspberry Pi to interact via voice with ordinary people.
+Using google tts, JSON parsing with jq, and espeak (or google stt) to achieve a platform for Raspberry Pi to interact via voice with people -- no recognition-training required.
 
 
 
@@ -43,14 +43,29 @@ Usage:
 
 enter a number afterwards for the number of seconds per window:
 
+#### Raspberry Pi
+
+
+```bash
+chmod +x ./PAL.sh
+./PAL.sh 5
+```
+
+loops every 5 seconds (we are working on a less choppy version), but it works!
+
+
+
+### Components
+
+For ease of hacking, I separated the components of the setup into different scripts, below demonstrates the simple usage of the relevant `listen` script:
 
 #### Raspberry Pi
+
 
 ```bash
 chmod +x ./raspi_listen.sh
 ./raspi_listen.sh 10
 ```
-
 
 
 #### Ubuntu Linux 
