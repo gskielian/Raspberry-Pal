@@ -4,6 +4,28 @@ Description
 Using google tts and stt to achieve a platform for Raspberry Pi to interact via voice with ordinary people.
 
 
+
+```bash
+.
+├── README.md
+├── Directions
+│   ├── directions_responsder.sh
+│   └── googlemaps_api_response.json
+├── file.flac
+├── file.wav
+├── install.sh
+├── jq-1.3
+├── Raspberry_Pi
+│   ├── raspi_listen.sh
+│   ├── raspi_say.sh
+│   ├── say.sh
+│   └── useful_things.sh
+└── Ubuntu
+   ├── listen.sh
+   ├── useful_things.sh
+   └── say.sh
+```
+
 Installation:
 -------------
 

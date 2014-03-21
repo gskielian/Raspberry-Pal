@@ -1,0 +1,170 @@
+{
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 37.7940602,
+               "lng" : -122.4034605
+            },
+            "southwest" : {
+               "lat" : 37.7627207,
+               "lng" : -122.420084
+            }
+         },
+         "copyrights" : "Map data ©2014 Google, Sanborn",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "2.6 mi",
+                  "value" : 4122
+               },
+               "duration" : {
+                  "text" : "53 mins",
+                  "value" : 3200
+               },
+               "end_address" : "1 Sycamore Street, San Francisco, CA 94110, USA",
+               "end_location" : {
+                  "lat" : 37.7627207,
+                  "lng" : -122.4194896
+               },
+               "start_address" : "677-699 Barbary Coast Trail, San Francisco, CA 94111, USA",
+               "start_location" : {
+                  "lat" : 37.7940602,
+                  "lng" : -122.4044453
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "82 ft",
+                        "value" : 25
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 22
+                     },
+                     "end_location" : {
+                        "lat" : 37.7940273,
+                        "lng" : -122.4047243
+                     },
+                     "html_instructions" : "Head \u003cb\u003ewest\u003c/b\u003e on \u003cb\u003eCommercial St\u003c/b\u003e toward \u003cb\u003eKearny St\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "{steFxbbjVDt@"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7940602,
+                        "lng" : -122.4044453
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.4 mi",
+                        "value" : 716
+                     },
+                     "duration" : {
+                        "text" : "9 mins",
+                        "value" : 559
+                     },
+                     "end_location" : {
+                        "lat" : 37.7876655,
+                        "lng" : -122.4034605
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eKearny St\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "usteFndbjVtAMtDi@@?FArAOfBQbAMvBW`BQvAQrAM`BUxAObBUt@IDA"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7940273,
+                        "lng" : -122.4047243
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.2 mi",
+                        "value" : 1958
+                     },
+                     "duration" : {
+                        "text" : "25 mins",
+                        "value" : 1495
+                     },
+                     "end_location" : {
+                        "lat" : 37.7752057,
+                        "lng" : -122.4192085
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMarket St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "}kseFr|ajVrBpCx@fAh@t@h@t@r@~@NR^f@\\b@j@x@b@l@vAnBx@fAV\\|AxBd@l@~@pAv@fAlA~Ax@hA|@lAb@p@bApAJNt@bAd@n@n@z@~AxBZ`@T\\`@h@bB~Bn@z@tBtCjAbBlBhCx@dAzDnFJJrC|DNTLNj@t@JNVZ"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7876655,
+                        "lng" : -122.4034605
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.2 mi",
+                        "value" : 255
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 187
+                     },
+                     "end_location" : {
+                        "lat" : 37.7729719,
+                        "lng" : -122.4185412
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eS Van Ness Ave\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "a~peF`_ejVFAlASbIaBd@M"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7752057,
+                        "lng" : -122.4192085
+                     },
+                     "travel_mode" : "WALKING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.7 mi",
+                        "value" : 1168
+                     },
+                     "duration" : {
+                        "text" : "16 mins",
+                        "value" : 937
+                     },
+                     "end_location" : {
+                        "lat" : 37.7627207,
+                        "lng" : -122.4194896
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eMission St\u003c/b\u003e",
+                     "maneuver" : "turn-right",
+                     "polyline" : {
+                        "points" : "appeFzzdjVVPdAv@^RJDdAh@tAf@|Ah@hAV|@PTDPBf@FnAJt@DJD^AzCK`I_@bI[dI]fAGbAE"
+                     },
+                     "start_location" : {
+                        "lat" : 37.7729719,
+                        "lng" : -122.4185412
+                     },
+                     "travel_mode" : "WALKING"
+                  }
+               ],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "{steFxbbjVDt@tAMvDi@fGq@dKiAtIeADArBpCbB|BlCpDzKhOpLdPbLrO~I~LtK~NtAjBVZFApKuBd@MVPdBjApAn@rDpAfCh@f@HvBRt@DJDzDMdS{@pMk@"
+         },
+         "summary" : "Market St and Mission St",
+         "warnings" : [
+            "Walking directions are in beta.    Use caution – This route may be missing sidewalks or pedestrian paths."
+         ],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
+}

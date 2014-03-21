@@ -11,3 +11,9 @@ sudo apt-get install -y jq # like sed for json
 #tar -zxvf jq-1.3.tar.gz
 cd jq-1.3
 ./configure && make && sudo make install
+
+
+
+
+sudo apt-get install -y lirc # this allows for mplayer on detached screen session
+sudo echo "nolirc=yes" >> /etc/mplayer/mplayer.conf

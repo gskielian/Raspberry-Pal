@@ -7,17 +7,13 @@ duration=$1
 
 echo "Beginning Recording"
 if [ -f file.wav ] ; then
-rm file.wav
+  rm file.wav
 fi
 
 if [ -f file.flac ] ; then
-rm file.flac
+  rm file.flac
 fi
 
-
-echo "removing previous files"
-rm file.wav
-rm file.flac
 
 #arecord -f S16_LE -d $duration file.wav  -D "hw:0,0"  -r 16000 -c2
 
